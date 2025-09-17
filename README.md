@@ -61,7 +61,7 @@ This project demonstrates a full CRUD (Create, Read, Update, Delete) workflow us
 ## ⚙️ How to Build
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/AppTarefas08.git
+   git clone https://github.com/enzobortolozzoborges/AppTarefaN2.2.git
 
 Open in Android Studio
 File → Open… and select the AppTarefas08 folder.
